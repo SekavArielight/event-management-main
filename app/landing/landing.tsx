@@ -10,13 +10,13 @@ export default function Body() {
       <div className="container px-5 py-24 mx-auto">
         <div className="flex flex-col text-center w-full mb-20">
           <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">
-            Experience hassle free event
+            Oya Na, Make We Move!
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Welcome to our innovative event management application Event-Ally,
-            where organizing and executing unforgettable events becomes
-            effortless. Streamline your planning process and create
-            extraordinary experiences with our intuitive platform.
+            You don show face again — nice one! Whether you wan join match,
+            create your own event, or just check wetin dey happen, everything
+            dey here for you. No need waka up and down, Sportify get your sports
+            life covered from start to finish. Oya, make we run am!
           </p>
         </div>
 

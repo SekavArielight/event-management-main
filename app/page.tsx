@@ -77,11 +77,10 @@ export default function Home() {
           </div>
           <div className="text-center">
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-              Sports Wahala? No More! Manage Events Effortlessly
+              Na Here Ball Dey Set!
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
-               From team registrations to match day updates—organize, track, and
-              enjoy stress-free sports events all in one place!🚀⚽🔥
+               Log in make you see wetin dey — organise match, find people, and play sharp sharp🚀⚽🔥
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <button
