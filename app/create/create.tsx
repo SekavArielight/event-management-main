@@ -147,9 +147,9 @@ const CreateEventPage = () => {
                   className="block text-sm font-medium leading-6 text-gray-900"
                 >
                   Description
-                  <span className="text-gray-600 px-3">
-                    (Markdown will be suported soon)
-                  </span>
+                  {/* <span className="text-gray-600 px-3">
+                    (Markdown will be supported soon)
+                  </span> */}
                 </label>
                 <div className="mt-2">
                   <textarea
