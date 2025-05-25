@@ -8,6 +8,9 @@ import { MdOutlinePlace } from "react-icons/md";
 import { IoIosPeople } from "react-icons/io";
 import { useRouter } from "next/navigation";
 
+// const client = new Client()
+//    .setEndpoint(`NEXT_PUBLIC_ENDPOINT`)
+//    .setProject(`NEXT_PUBLIC_PROJECTID`);
 
 export default function EventListing() {
   const appwriteConfig = new AppwriteConfig();

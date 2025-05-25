@@ -64,7 +64,7 @@ export default function Home() {
         <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
           <div className="hidden sm:mb-8 sm:flex sm:justify-center">
             <div className="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
-              Wish to know how to host a great sport event?{" "}
+              You wan sabi how to run better sport event?{" "}
               <a
                 href="https://weezevent.com/en-ca/blog/organise-sports-event/"
                 target="_blank"
